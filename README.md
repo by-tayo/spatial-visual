@@ -34,13 +34,19 @@ Python will be utilized to display radargrams with visualization. Modifying the 
 ## 📊 Results
 ### Radargrams Generated through Image Processing
 Radargram 1
+![Radargram 1](images/radar1.png)
 
 Radargram 2
+![Radargram 2](images/radar2.png)
 
 Radargram 3
+![Radargram 3](images/radar3.png)
 
 Radargram 4
+![Radargram 4](images/radar4.png)
 
 Radargram 5
+![Radargram 5](images/radar5.png)
 
 Radargram 6
+![Radargram 6](images/radar6.png)
